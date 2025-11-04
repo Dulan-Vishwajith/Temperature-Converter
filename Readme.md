@@ -21,14 +21,5 @@ A simple Java console-based program that converts temperatures between Celsius a
 ## Goal
 To strengthen Java fundamentals by building a simple and practical program using user input and conditional logic.
 
-## Example Output
-```
-Enter the temperature : 100
-Convert to Celsius or Fahrenheit(C or F): C
-100.00C
-37.78F
-```
 
-## Tags
-#JavaDevelopment #ConsoleApplication #JavaProjects #SoftwareEngineering #Programming #LearningByDoing #CodingProjects #BeginnerProjects #CodeNewbie #DeveloperJourney #JavaCommunity
 
